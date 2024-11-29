@@ -1,6 +1,6 @@
 # Youssef Abdelrahim
 
-I am a master's student in Automation and Robotics, I have a strong enthusiasm for software development and its ability to deliver rapid and tangible outputs, with a special interest in autonomous systems and artificial intelligence.I am eager to learn and grow every day.
+I am a master's student in Automation and Robotics, I have a strong enthusiasm for software development and its ability to deliver rapid and tangible outputs, with a special interest in autonomous systems and artificial intelligence. I am eager to learn and grow every day.
 
 I love reading books.
 
