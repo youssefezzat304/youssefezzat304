@@ -40,9 +40,3 @@ I love reading books.
 
 <br></br>
 ---
-
-```
-while(true) {
-  improve();
-};
-```
